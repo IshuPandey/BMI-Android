@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="Weight">Enter your weight</string>
+    <string name="Height">Enter your Height(ft)</string>
+</resources>
